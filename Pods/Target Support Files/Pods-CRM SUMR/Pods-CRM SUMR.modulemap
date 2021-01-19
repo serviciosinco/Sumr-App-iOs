@@ -1,0 +1,6 @@
+framework module Pods_CRM_SUMR {
+  umbrella header "Pods-CRM SUMR-umbrella.h"
+
+  export *
+  module * { export * }
+}

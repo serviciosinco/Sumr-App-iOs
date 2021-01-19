@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "DASHBOARD"; ObjectID = "8OB-uY-75G"; */
+"8OB-uY-75G.title" = "PANEL";
+
+/* Class = "UITextField"; placeholder = "Clave"; ObjectID = "B3L-F9-Blk"; */
+"B3L-F9-Blk.placeholder" = "Clave";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "bWN-UB-4ab"; */
+"bWN-UB-4ab.normalTitle" = "Siguiente";
+
+/* Class = "UITextField"; placeholder = "Usuario"; ObjectID = "jiK-Yz-jLo"; */
+"jiK-Yz-jLo.placeholder" = "Usuario";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mEM-QR-PKr"; */
+"mEM-QR-PKr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tQb-c7-4Te"; */
+"tQb-c7-4Te.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "entrar"; ObjectID = "xHd-Hw-kUq"; */
+"xHd-Hw-kUq.normalTitle" = "entrar";
